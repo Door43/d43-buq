@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[buq:home|Door43 (buq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-buq|d43-buq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-buq/archive/master.zip|d43-buq.zip]]
+
+**Recent Changes**
+{{changes>ns = buq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/buq|Ethnologue data]]
+
